@@ -5,7 +5,7 @@
 - [BaseService](https://academy.creatio.com/documents/technic-sdk/7-15/creating-configuration-service) Configuration WebSerice
 - [Select](https://academy.creatio.com/documents/technic-sdk/7-15/ad-hoc-db-queries) Ad-Hoc queries
 - [Esq](https://academy.creatio.com/documents/technic-sdk/7-15/working-database-entity-entity-class) Entity Schema Query
-- [WebSocket](https://github.com/kirillkrylov/ImagesAndPages/wiki/Web-Socket-Messages-with-MsgChannelUtilities) WebSocket with MsgChannelUtilities
+- [WebSocket](../wiki/Web-Socket-Messages-with-MsgChannelUtilities) WebSocket with MsgChannelUtilities
 
 
 - Create event listener that will detect and handle overlapping activities with Entity Event Layer
@@ -13,7 +13,7 @@
 
 ## Tools
 - [Clio](https://github.com/Advance-Technologies-Foundation/clio) - CLI Library to create packages.
-- [CreatioSDK](https://github.com/kirillkrylov/ImagesAndPages/wiki/Creatio-NuGet-Repository) - Necessary libraries
+- [CreatioSDK](../wiki/Creatio-NuGet-Repository) - Necessary libraries
 
 ## Documentation
 - [Creatio](https://academy.creatio.com/documents/technic-sdk/7-15/creatio-development-guide) - Creatio Development Guide
