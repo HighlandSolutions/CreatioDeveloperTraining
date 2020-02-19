@@ -6,8 +6,8 @@ Click on **+** to add you source
 
 Name: Creatio<br/>
 Source: **https://ts1-infr-nexus.bpmonline.com:8443/repository/developer-sdk**</br>
-![NuGet](https://github.com/kirillkrylov/ImagesAndPages/blob/master/Img/Nuget.png)
+![NuGet](../Img/Nuget.png)
 
 
 You can now add CreatioSDK to your package
-![Result](https://github.com/kirillkrylov/ImagesAndPages/blob/master/Img/NuGetPackageManager.png)
+![Result](../Img/NuGetPackageManager.png)

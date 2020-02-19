@@ -1,5 +1,5 @@
 To enable custom logging update **nlog.config** and **nlog.targets.config**. Both files are located in [AppPath]\Terrasoft.WebApp <br/><br/>
-![NlogFiles](https://github.com/kirillkrylov/ImagesAndPages/blob/master/Img/NLogFiles.png)
+![NlogFiles](../Img/NLogFiles.png)
 
 Add the following to **nlog.config** file:
 ```xml
