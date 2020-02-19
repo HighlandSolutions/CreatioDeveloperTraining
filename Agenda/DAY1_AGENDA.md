@@ -1,9 +1,9 @@
 [![Logo](https://www.creatio.com/sites/default/files/2019-10/creatio-main-logo.svg)](https://github.com/sindresorhus/awesome#readme)
 # Agenda (Day 1)
-- [Convert Creatio to development in FileSystem Mode](../wiki/Enable-development-in-FileSystem-Mode) 
-- [Add Custom Repository](../wiki/Creatio-NuGet-Repository)
+- [Convert Creatio to development in FileSystem Mode](../Wiki/Enable-development-in-FileSystem-Mode) 
+- [Add Custom Repository](../Wiki/Creatio-NuGet-Repository)
 - [Configure Clio](https://github.com/Advance-Technologies-Foundation/clio/blob/master/README.md)
-- [Configure NLog](../wiki/Custom-Logging-with-NLog)
+- [Configure NLog](../Wiki/Custom-Logging-with-NLog)
 - Set first breakpoint and make log entry
 
 ## Set First Break Point
