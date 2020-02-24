@@ -31,8 +31,8 @@ In this course you will learn how to start developing on creatio platform by bui
 ## Agenda
 - [Day 1](Agenda/DAY1_AGENDA.md)
 - [Day 2](Agenda/DAY2_AGENDA.md)
-- [Day 3](Agenda/DAY3_AGENDA.md)
-- [Day 4](Agenda/DAY4_AGENDA.md)
+- Day 3 - Not Provided
+- Day 4 - Not Provided
 
 ## Instructor
 <a href="mailto:k.krylov@creatio.com?subject=Guided%20Learning%20Jan21%2017-24,%202020">Kirill Krylov, CPA</a><br />
@@ -40,11 +40,7 @@ In this course you will learn how to start developing on creatio platform by bui
 
 
 ## Video Recordings
-Please note that the recording files will be deleted 20 days after the day of the recording.
-- [Day 1](https://api.zoom.us/recording/play/glcXJhmUpI0t2sQ-0IHPYWZcra2yXKqnyg6j2etJ5LHL71xpipGmebR-uUKD1nyK)
-- [Day 2](https://api.zoom.us/recording/play/acDymnDuEK1NJUtpGS0epO2rpK9aahbNjO_cJc_6ItMtnwUtWm3cFtPkDWb_DMOW)
-- [Day 3](https://api.zoom.us/recording/play/IrsTr7Wo5wlmIdVmfh5zlKJeRfAxyTis4dXQlxFbJa0sxngr3GsCsszCeKpL3Doj)
-- [Day 4](https://api.zoom.us/recording/play/v486p7GToZfMTgHfBAfQFZF4XHRqJLfJhBHMe8uyhPQl35HMrSIIM3fIUS5F14P7)
+See Confluence for links to recordings
 
 
 ## Prerequisites
