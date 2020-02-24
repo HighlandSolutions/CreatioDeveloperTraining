@@ -52,3 +52,6 @@ See Confluence for links to recordings
 [Creatio administration and configuration](https://academy.creatio.com/online-courses/creatio-administration-and-configuration-0)<br/>
 [Business processes management in Creatio](https://academy.creatio.com/online-courses/business-processes-management-creatio)<br/>
 [Development on Creatio platform](https://academy.creatio.com/online-courses/development-creatio-platform-0)<br/>
+
+## Code Sample Repo
+* [Code Sample Repo](https://github.com/HighlandSolutions/CreatioDevTrainingFeb)
